@@ -17,9 +17,14 @@ This project is a responsive web app that is an end-to-end online consulting sol
       Introduction page
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/4b125af2-6c1e-477b-bba5-26e99e53c820" alt="Screenshot 2025-09-24 at 12 34 40" width="350">
+      <img src="https://github.com/user-attachments/assets/7cbc126a-2dcf-453b-a46b-9b97da53d35d" alt="Screenshot 2025-09-24 at 12 34 40" width="350">
       <br>
-      Booking page
+      Book a timeslot, Customer Feedbacks 
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/cb3cf547-b3c5-41ed-b8ed-586751f5b0f2" alt="Screenshot 2025-09-24 at 12 34 40" width="350">
+      <br>
+      Send Feedback
     </td>
   </tr>
 </table>
