@@ -19,12 +19,12 @@ This project is a responsive web app that is an end-to-end online consulting sol
     <td align="center">
       Booking 📅 and Feedback 💬⭐
       <br>
-      <img src="https://github.com/user-attachments/assets/7cbc126a-2dcf-453b-a46b-9b97da53d35d" alt="Screenshot 2025-09-24 at 12 34 40" width="350">
+      <img src="https://github.com/user-attachments/assets/a195f276-26d4-4a00-9175-55231c7a9cff" alt="Screenshot 2025-09-24 at 12 34 40" width="350">
     </td>
     <td align="center">
       Send Feedback 📤
       <br>
-      <img src="https://github.com/user-attachments/assets/cb3cf547-b3c5-41ed-b8ed-586751f5b0f2" alt="Screenshot 2025-09-24 at 12 34 40" width="350">
+      <img src="https://github.com/user-attachments/assets/cde061a1-44cd-4fd2-bafc-f5820abdf9fd" alt="Screenshot 2025-09-24 at 12 34 40" width="350">
     </td>
   </tr>
 </table>
