@@ -9,12 +9,12 @@ This project is a web application that measures how many words you can type per 
     <td align="center">
       Realtime measurements
       <br>
-      <img src="https://github.com/user-attachments/assets/6dc3b201-03b8-4950-8ff9-d0346b36393e" alt="Screenshot 2025-09-24 at 12 34 40" width="400">
+      <img src="https://github.com/user-attachments/assets/6dc3b201-03b8-4950-8ff9-d0346b36393e" alt="Screenshot 2025-09-24 at 12 34 40" height="400">
     </td>
     <td align="center">
       Test Result
       <br>
-      <img src="https://github.com/user-attachments/assets/716e0c60-b040-4570-8b37-7a6538b900d5" alt="Screenshot 2025-09-24 at 12 34 40" width="400">
+      <img src="https://github.com/user-attachments/assets/716e0c60-b040-4570-8b37-7a6538b900d5" alt="Screenshot 2025-09-24 at 12 34 40" height="400">
     </td>
   </tr>
 </table>
