@@ -18,6 +18,8 @@ This project is a web application that measures how many words you can type per 
     </td>
   </tr>
 </table>
+
+
 ### Project 2: End-to-End Online Consultation
 This project is a responsive web app that is an end-to-end online consulting solution. It was built using [Javascript with React framework].
 
