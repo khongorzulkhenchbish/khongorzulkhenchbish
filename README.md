@@ -7,14 +7,14 @@ This project is a web application that measures how many words you can type per 
 <table>
   <tr>
     <td align="center">
-      Realtime measurements
-      <br>
       <img src="https://github.com/user-attachments/assets/6dc3b201-03b8-4950-8ff9-d0346b36393e" alt="Screenshot 2025-09-24 at 12 34 40" height="500">
+      <br>
+      Realtime measurements
     </td>
     <td align="center">
-      Test Result
-      <br>
       <img src="https://github.com/user-attachments/assets/87ee75f1-5524-4e6f-be60-48b7671b59eb" alt="Screenshot 2025-09-24 at 12 34 40" height="500">
+      <br>
+      Test Result
     </td>
   </tr>
 </table>
