@@ -4,6 +4,20 @@ This project is a web application that measures how many words you can type per 
 - **Live Demo:** [Check out the live demo here!](https://wordperminute.web.app/)
 - **Source Code:** [View on GitHub](https://github.com/khongorzulkhenchbish/wordperminute)
 
+<table>
+  <tr>
+    <td align="center">
+      Realtime measurements
+      <br>
+      <img src="https://github.com/user-attachments/assets/6dc3b201-03b8-4950-8ff9-d0346b36393e" alt="Screenshot 2025-09-24 at 12 34 40" width="400">
+    </td>
+    <td align="center">
+      Test Result
+      <br>
+      <img src="https://github.com/user-attachments/assets/716e0c60-b040-4570-8b37-7a6538b900d5" alt="Screenshot 2025-09-24 at 12 34 40" width="400">
+    </td>
+  </tr>
+</table>
 ### Project 2: End-to-End Online Consultation
 This project is a responsive web app that is an end-to-end online consulting solution. It was built using [Javascript with React framework].
 
