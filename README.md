@@ -1,8 +1,7 @@
 ### Project 1: Word Per Minute
 This project is a web application that measures how many words you can type per minute correctly. It was built using [Javascript with React framework].
 
-- **Live Demo:** [Check out the live demo here!](https://wordperminute.web.app/)
-- **Source Code:** [View on GitHub](https://github.com/khongorzulkhenchbish/wordperminute)
+- **Live Demo:** [Check out the live demo here!](https://wordperminute.web.app/) - **Source Code:** [View on GitHub](https://github.com/khongorzulkhenchbish/wordperminute)
 
 <table>
   <tr>
