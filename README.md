@@ -1,5 +1,5 @@
 ### Project 1: Word Per Minute
-This project is a web application that measures how many words you can type per minute correctly. It was built using [Javascript with React framework].
+This project is a web application that measures how many words you can type per minute correctly. It was built using [Javascript with React framework, Firebase].
 
 - **Live Demo:** [Word Per Minute](https://wordperminute.web.app/)
 - **Source Code:** [Visit Repo](https://github.com/khongorzulkhenchbish/wordperminute)
@@ -19,7 +19,7 @@ This project is a web application that measures how many words you can type per 
 
 
 ### Project 2: End-to-End Online Consultation
-This project is a responsive web app that is an end-to-end online consulting solution. It was built using [Javascript with React framework].
+This project is a responsive web app that is an end-to-end online consulting solution. It was built using [Javascript with React framework, Firebase].
 
 - **Live Demo:** [Zula Tech](https://zulatech.web.app/)
 - **Source Code:** [Visit Repo](https://github.com/khongorzulkhenchbish/consulting-app-zula)
