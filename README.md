@@ -22,7 +22,7 @@ This project is a web application that measures how many words you can type per 
     </td>
     <td align="center">
       Leaderboard<br>
-      <img src="https://github.com/user-attachments/assets/c5669795-3b12-41c3-8aca-c8fc2c244691" alt="Screenshot 2025-09-24 at 12 34 40" height="500">
+      <img src="https://github.com/user-attachments/assets/bb284dcd-b124-4394-9b1d-ef9cebe8cd95" alt="Screenshot 2025-09-24 at 12 34 40" height="500">
     </td>
   </tr>
 </table>
