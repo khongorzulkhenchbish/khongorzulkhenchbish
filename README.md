@@ -1,5 +1,6 @@
 ### Project 1: Sentiment Analysis API
 This project provides a simple, containerized inference service for sentiment analysis.
+
 It uses the distilbert-base-uncased-finetuned-sst-2-english model to classify text as either positive or negative sentiment with a confidence score.
 It was built using [Docker, Kubernetes, FastAPI, Uvicorn, Transformers, PyTorch].
 
