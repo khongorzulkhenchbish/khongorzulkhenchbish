@@ -98,7 +98,7 @@ A responsive web app that is an end-to-end online consulting solution.
 
 ## 📬 Get in Touch
 
-For collaborations, feedback, or just to say hi, feel free to [reach out via GitHub](https://github.com/khongorzulkhenchbish) or connect on [LinkedIn](https://www.linkedin.com/in/khongorzulkhenchbish/).
+For collaborations, feedback, or just to say hi, feel free to [reach out via email](mailto:zulaconnect@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/khongorzulkhenchbish/).
 
 ---
 
