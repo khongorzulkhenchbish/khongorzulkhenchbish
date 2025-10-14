@@ -4,7 +4,8 @@
 Delivered scalable, resilient infrastructure and full-stack systems in high-impact teams at Google, Ericsson, and Morgan Stanley.  
 Strong communicator, community leader, and fast learner, passionate about open source technologies and system design at scale.
  
-Don't hesitate to reach out for any ideas! 📩
+Don't hesitate to reach out!
+📩 zulaconnect@gmail.com
 
 ---
 
@@ -95,10 +96,9 @@ A responsive web app that is an end-to-end online consulting solution.
 
 ---
 
-## 📬 Get in Touch
+## 📊 GitHub Stats
 
-For collaborations, feedback, or just to say hi, feel free to [reach out via email](mailto:zulaconnect@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/khongorzulkhenchbish/).
+![Zula's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khongorzulkhenchbish&show_icons=true&hide_title=true&count_private=true&theme=default)
 
 ---
-
-<sub>Thanks for visiting! 🚀</sub>
+Thanks for visiting! 🚀
