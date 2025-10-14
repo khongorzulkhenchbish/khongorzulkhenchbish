@@ -1,4 +1,10 @@
-### Project 1: Word Per Minute
+### Ongoing Project 1: Sentiment Analysis API
+This project provides a simple, containerized inference service for sentiment analysis. It uses the distilbert-base-uncased-finetuned-sst-2-english model to classify text as either positive or negative sentiment with a confidence score. It was built using [Docker, Kubernetes, FastAPI, Uvicorn, Transformers, PyTorch].
+
+- **Source Code:** [Visit Repo](https://github.com/khongorzulkhenchbish/ml-sentiment-analysis-api)
+
+
+### Completed Project 2: Word Per Minute
 This project is a web application that measures how many words you can type per minute correctly. It was built using [Javascript with React framework, Firebase].
 
 - **Live Demo:** [Word Per Minute](https://wordperminute.web.app/)
@@ -28,7 +34,7 @@ This project is a web application that measures how many words you can type per 
 </table>
 
 
-### Project 2: End-to-End Online Consultation
+### Completed Project 3: End-to-End Online Consultation
 This project is a responsive web app that is an end-to-end online consulting solution. It was built using [Javascript with React framework, Firebase].
 
 - **Live Demo:** [Zula Tech](https://zulatech.web.app/)
