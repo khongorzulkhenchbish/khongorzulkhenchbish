@@ -3,8 +3,7 @@
 **Software Engineer with 4+ years of experience across Platform, DevOps, and Backend engineering roles.**  
 Delivered scalable, resilient infrastructure and full-stack systems in high-impact teams at Google, Ericsson, and Morgan Stanley.  
 Strong communicator, community leader, and fast learner, passionate about open source technologies and system design at scale.
-
-Feel free to check out my GitHub for my latest projects and experiments.  
+ 
 Don't hesitate to reach out for any ideas! 📩
 
 ---
