@@ -98,9 +98,5 @@ A responsive web app that is an end-to-end online consulting solution.
 
 ## 📊 GitHub Stats
 
-![Zula's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khongorzulkhenchbish&show_icons=true&hide_title=true&count_private=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khongorzulkhenchbish&layout=compact&theme=default)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khongorzulkhenchbish)
-
 ---
 Thanks for visiting! 🚀
