@@ -12,8 +12,7 @@ Don't hesitate to reach out!
 ## 🚀 Featured Projects
 
 ### Project 1: Sentiment Analysis API
-This project provides a simple, containerized inference service for sentiment analysis.  
-It uses the distilbert-base-uncased-finetuned-sst-2-english model to classify text as either positive or negative.
+A FastAPI-based REST API that performs sentiment analysis on text using a pre-trained DistilBERT model from Hugging Face. This project demonstrates a complete MLOps workflow including containerization, Kubernetes deployment, and CI/CD automation.
 
 **Technologies Used:**  
 <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
@@ -22,6 +21,8 @@ It uses the distilbert-base-uncased-finetuned-sst-2-english model to classify te
 <img src="https://img.shields.io/badge/Uvicorn-FFD43B?logo=python&logoColor=black" />
 <img src="https://img.shields.io/badge/Transformers-FF6F00?logo=huggingface&logoColor=white" />
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Minikube-326CE5?logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white" />
 
 - **Source Code:** [Visit Repo](https://github.com/khongorzulkhenchbish/ml-sentiment-analysis-api)
 
