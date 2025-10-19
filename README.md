@@ -26,6 +26,17 @@ A FastAPI-based REST API that performs sentiment analysis on text using a pre-tr
 
 - **Source Code:** [Visit Repo](https://github.com/khongorzulkhenchbish/ml-sentiment-analysis-api)
 
+<table>
+  <tr align="center">
+    <td>
+      <img src="https://github.com/user-attachments/assets/646819fa-1bb4-4fb9-86a8-d129e164f492" alt="Screenshot 2025-09-24 at 12 34 40" height="350">
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/cb05b636-0579-493b-8784-5fbcdadfe9f5" alt="Screenshot 2025-09-24 at 12 34 40" height="350">
+    </td>
+  </tr>
+</table>
+
 ---
 
 ### Project 2: Word Per Minute
@@ -43,21 +54,21 @@ A web application that measures how many words you can type per minute correctly
   <tr>
     <td align="center">
       Realtime measurements<br>
-      <img src="https://github.com/user-attachments/assets/059e8fc9-b34c-43b0-9924-96b84af940b6" alt="Screenshot 2025-09-24 at 12 34 40" height="250">
+      <img src="https://github.com/user-attachments/assets/059e8fc9-b34c-43b0-9924-96b84af940b6" alt="Screenshot 2025-09-24 at 12 34 40" height="350">
     </td>
     <td align="center">
       Test Result<br>
-      <img src="https://github.com/user-attachments/assets/9f941658-954d-4d98-b3ff-7859cb10527d" alt="Screenshot 2025-09-24 at 12 34 40" height="250">
+      <img src="https://github.com/user-attachments/assets/9f941658-954d-4d98-b3ff-7859cb10527d" alt="Screenshot 2025-09-24 at 12 34 40" height="350">
     </td>
   </tr>
   <tr>
     <td align="center">
       Dark mode<br>
-      <img src="https://github.com/user-attachments/assets/916153c0-21ef-483d-aca4-49b66bee278b" alt="Screenshot 2025-09-24 at 12 34 40" height="250">
+      <img src="https://github.com/user-attachments/assets/916153c0-21ef-483d-aca4-49b66bee278b" alt="Screenshot 2025-09-24 at 12 34 40" height="350">
     </td>
     <td align="center">
       Leaderboard<br>
-      <img src="https://github.com/user-attachments/assets/bb284dcd-b124-4394-9b1d-ef9cebe8cd95" alt="Screenshot 2025-09-24 at 12 34 40" height="250">
+      <img src="https://github.com/user-attachments/assets/bb284dcd-b124-4394-9b1d-ef9cebe8cd95" alt="Screenshot 2025-09-24 at 12 34 40" height="350">
     </td>
   </tr>
 </table>
@@ -80,17 +91,17 @@ A responsive web app that is an end-to-end online consulting solution.
     <td align="center">
       Introduction page
       <br>
-      <img src="https://github.com/user-attachments/assets/8875cf57-b1d9-4ba4-93ee-7fa435d58b02" alt="Screenshot 2025-09-24 at 12 42 09" height="200">
+      <img src="https://github.com/user-attachments/assets/8875cf57-b1d9-4ba4-93ee-7fa435d58b02" alt="Screenshot 2025-09-24 at 12 42 09" height="300">
     </td>
     <td align="center">
       Booking and Feedback
       <br>
-      <img src="https://github.com/user-attachments/assets/a195f276-26d4-4a00-9175-55231c7a9cff" alt="Screenshot 2025-09-24 at 12 34 40" height="200">
+      <img src="https://github.com/user-attachments/assets/a195f276-26d4-4a00-9175-55231c7a9cff" alt="Screenshot 2025-09-24 at 12 34 40" height="300">
     </td>
     <td align="center">
       Send Feedback
       <br>
-      <img src="https://github.com/user-attachments/assets/cde061a1-44cd-4fd2-bafc-f5820abdf9fd" alt="Screenshot 2025-09-24 at 12 34 40" width="200">
+      <img src="https://github.com/user-attachments/assets/cde061a1-44cd-4fd2-bafc-f5820abdf9fd" alt="Screenshot 2025-09-24 at 12 34 40" width="300">
     </td>
   </tr>
 </table>
