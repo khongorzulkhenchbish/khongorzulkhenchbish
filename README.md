@@ -1,15 +1,9 @@
-# 👋 Hi, I'm Zula
-
-**Software Engineer with 4+ years of experience across Platform, DevOps, and Backend engineering roles.**  
-Delivered scalable, resilient infrastructure and full-stack systems in high-impact teams at Google, Ericsson, and Morgan Stanley.  
-Strong communicator, community leader, and fast learner, passionate about open source technologies and system design at scale.
- 
-Don't hesitate to reach out!
+👋 Hi, I'm Zula, don't hesitate to reach out!  
 📩 zulaconnect@gmail.com
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Project Portfolio
 
 ### Project 1: Sentiment Analysis API
 A FastAPI-based REST API that performs sentiment analysis on text using a pre-trained DistilBERT model from Hugging Face. This project demonstrates a complete MLOps workflow including containerization, Kubernetes deployment, and CI/CD automation.
