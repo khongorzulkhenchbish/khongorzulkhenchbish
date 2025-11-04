@@ -1,8 +1,3 @@
-👋 Hi, I'm Zula, don't hesitate to reach out!  
-📩 zulaconnect@gmail.com
-
----
-
 ## 🚀 Project Portfolio
 
 ### Project 1: Sentiment Analysis API
