@@ -1,7 +1,7 @@
 ## 🚀 Project Portfolio
 
 ### Project 1: Sentiment Analysis API
-A FastAPI-based REST API that performs sentiment analysis on text using a pre-trained DistilBERT model from Hugging Face. This project demonstrates a complete MLOps workflow including containerization, Kubernetes deployment, and CI/CD automation.
+A FastAPI-based REST API that performs sentiment analysis on text using a pre-trained DistilBERT model from Hugging Face. This project demonstrates a complete MLOps workflow including containerization, Kubernetes deployment, and CI/CD automation and monitoring the metrics with Prometheus and Grafana.
 
 **Technologies Used:**  
 <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
@@ -12,6 +12,8 @@ A FastAPI-based REST API that performs sentiment analysis on text using a pre-tr
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/Minikube-326CE5?logo=kubernetes&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white" />
+<img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white" />
 
 - **Source Code:** [Visit Repo](https://github.com/khongorzulkhenchbish/ml-sentiment-analysis-api)
 
