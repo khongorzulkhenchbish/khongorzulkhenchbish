@@ -1,4 +1,4 @@
-## 🚀 Project Portfolio
+## Project Portfolio
 
 ### Project 1: Sentiment Analysis API
 A FastAPI-based REST API that performs sentiment analysis on text using a pre-trained DistilBERT model from Hugging Face. This project demonstrates a complete MLOps workflow including containerization, Kubernetes deployment, and CI/CD automation and monitoring the metrics with Prometheus and Grafana.
@@ -101,10 +101,7 @@ A responsive web app that is an end-to-end online consulting solution.
 
 ## 📊 GitHub Stats
 
-![Zula's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khongorzulkhenchbish&show_icons=true&hide_title=true&count_private=true&theme=default&v=3)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khongorzulkhenchbish&layout=compact&theme=default&v=3)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khongorzulkhenchbish&v=3)
+![Zula's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khongorzulkhenchbish&show_icons=true&hide_title=true&count_private=true&theme=default&v=4)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khongorzulkhenchbish&layout=compact&theme=default&v=4)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khongorzulkhenchbish&v=4)
 
-
----
-Thanks for visiting! 🚀
